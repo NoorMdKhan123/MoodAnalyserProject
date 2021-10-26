@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MoodAnlysrProject
 {
-  public class MoodAnalyser
+    public class MoodAnalyser
     {
         private string message;
         public MoodAnalyser(string message)
@@ -13,7 +13,7 @@ namespace MoodAnlysrProject
         }
         public string AnalyseMood()
         {
-            if(this.message.Contains("Sad"))
+            if (this.message.Contains("Sad"))
             {
                 return "SAD";
             }
@@ -23,5 +23,7 @@ namespace MoodAnlysrProject
             }
 
         }
+
+
     }
 }
