@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.exe
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.deps.json
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.runtimeconfig.json
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.runtimeconfig.dev.json
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.dll
+C:\Users\md048\source\repos\MoodAnlysrProject\bin\Debug\netcoreapp3.1\MoodAnlysrProject.pdb
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.AssemblyInfo.cs
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.dll
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.pdb
+C:\Users\md048\source\repos\MoodAnlysrProject\obj\Debug\netcoreapp3.1\MoodAnlysrProject.genruntimeconfig.cache
