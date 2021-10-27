@@ -13,7 +13,7 @@ namespace MoodAnlysrProject
         }
         public string AnalyseMood()
         {
-            if (this.message.Contains("Sad"))
+            if (this.message.Contains("sad"))
             {
                 return "SAD";
             }
